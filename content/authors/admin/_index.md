@@ -33,15 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Data Structures
+    - course: B.S. in Computer Science
       institution: China University of Geosciences,Beijing
-      year: 2023
-    - course: Java Training
-      institution: China University of Geosciences,Beijing
-      year: 2023
-    - course: Python & Linux
-      institution: China University of Geosciences,Beijing
-      year: 2022
+      year:  2021 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
